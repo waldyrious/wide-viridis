@@ -1,7 +1,7 @@
 # wide-viridis
 
 A colormap inspired by [matplotlib's viridis](https://matplotlib.org/users/colormaps.html),
-but with a wider luminance range (i.e. starting at near black, like Magma and Inferno).
+but with a wider luminance range (i.e. starting at near black).
 
 |                  | Full color                             | Grayscale                              |
 | ---------------- | -------------------------------------- | -------------------------------------- |
