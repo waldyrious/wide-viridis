@@ -3,10 +3,10 @@
 A colormap inspired by [matplotlib's viridis](https://matplotlib.org/users/colormaps.html),
 but with a wider luminance range (i.e. starting at near black, like Magma and Inferno).
 
-|                  | Full color                   | Grayscale                              |
-| ---------------- | ---------------------------- | -------------------------------------- |
-| **Wide Viridis** | ![](images/wide-viridis.png) | ![](images/wide-viridis-grayscale.png) |
-| **Viridis**      | ![](images/viridis.png)      | ![](images/viridis-grayscale.png)      |
+|                  | Full color                             | Grayscale                              |
+| ---------------- | -------------------------------------- | -------------------------------------- |
+| **Wide Viridis** | ![](images/fullcolor_wide-viridis.png) | ![](images/grayscale_wide-viridis.png) |
+| **Viridis**      | ![](images/fullcolor_viridis.png)      | ![](images/grayscale_viridis.png)      |
 
 Viridis is a popular choice among Matplotlib's perceptually uniform color maps
 (which also include also Magma, Inferno and Plasma)
@@ -22,5 +22,5 @@ Here are some the test images used by `viscm`, for comparison:
 
 | Wide Viridis                       | Viridis                       |
 |:----------------------------------:|:-----------------------------:|
-| ![](images/wide-viridis-demo1.png) | ![](images/viridis-demo1.png) |
-| ![](images/wide-viridis-demo2.png) | ![](images/viridis-demo2.png) |
+| ![](images/demo1_wide-viridis.png) | ![](images/demo1_viridis.png) |
+| ![](images/demo2_wide_viridis.png) | ![](images/demo2_viridis.png) |
