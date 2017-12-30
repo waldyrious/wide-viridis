@@ -10,7 +10,7 @@ but with a wider luminance range (i.e. starting at near black, like Magma and In
 
 Viridis is a popular choice among Matplotlib's perceptually uniform color maps
 (which also include also Magma, Inferno and Plasma)
-but, like Magma, it doesn't start with black, which may be undesirable to some.
+but, like Plasma, it doesn't start at black, which may be undesirable in some cases.
 
 After unsuccessful searches for existing Viridis variants with this property,
 I took it upon myself to build such a colormap.
