@@ -23,4 +23,4 @@ Here are some the test images used by `viscm`, for comparison:
 | Wide Viridis                       | Viridis                       |
 |:----------------------------------:|:-----------------------------:|
 | ![](images/demo1_wide-viridis.png) | ![](images/demo1_viridis.png) |
-| ![](images/demo2_wide_viridis.png) | ![](images/demo2_viridis.png) |
+| ![](images/demo2_wide-viridis.png) | ![](images/demo2_viridis.png) |
